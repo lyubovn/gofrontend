@@ -1,2 +1,2 @@
 # gofrontend
-GoFrontend Course Home Works
+GoFrontend School Work
